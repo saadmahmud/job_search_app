@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446249479301",
+    "project_id": "testjobsearch-79006",
+    "storage_bucket": "testjobsearch-79006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446249479301:android:d8986d87a019cd911a4dec",
+        "android_client_info": {
+          "package_name": "com.sSquire.jobSearchApplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DK1P__OcsoCJBUZ6hC9jURusL-ig1gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
